@@ -1,27 +1,52 @@
-# Angular15FirebaseCrud
+# Angular 15 Firebase CRUD example with Realtime DataBase | AngularFireDatabase
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
+Build Angular 15 CRUD example with Firebase Realtime Database that uses `AngularFireDatabase` service.
 
-## Development server
+- Each Tutorial has key, title, description, published status.
+- We can make CRUD operations: create, retrieve, update, delete Tutorials.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![angular-15-firebase-crud](angular-15-firebase-crud.png)
 
-## Code scaffolding
+For more detail, please visit:
+> [Angular 15 Firebase CRUD with Realtime DataBase](https://www.bezkoder.com/angular-15-firebase-crud/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+> [Angular 15 Firestore CRUD example](https://www.bezkoder.com/angular-15-firestore-crud/)
 
-## Build
+> [Angular 15 Firebase Storage: File Upload/Display/Delete example](https://www.bezkoder.com/angular-15-firebase-storage/)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## More Practice
+> [Angular 15 example: CRUD with Rest API](https://www.bezkoder.com/angular-15-crud-example/)
 
-## Running unit tests
+> [Angular 15 Form Validation example](https://www.bezkoder.com/angular-15-form-validation/)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+> [Angular 15 JWT Authentication & Authorization with Web API](https://www.bezkoder.com/angular-15-jwt-auth/)
 
-## Running end-to-end tests
+Fullstack with Node:
+> [Angular 15 + Node Express + MySQL example](https://www.bezkoder.com/angular-15-node-js-express-mysql/)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+> [Angular 15 + Node Express + PostgreSQL example](https://www.bezkoder.com/angular-15-node-js-express-postgresql/)
 
-## Further help
+> [Angular 15 + Node Express + MongoDB example](https://www.bezkoder.com/angular-15-node-js-express-mongodb/)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+> [Angular 15 + Node Express: File upload example](https://www.bezkoder.com/angular-15-node-express-file-upload/)
+
+Fullstack with Spring Boot:
+
+> [Angular 15 + Spring Boot example](https://www.bezkoder.com/spring-boot-angular-15-crud/)
+
+> [Angular 15 + Spring Boot + MySQL example](https://www.bezkoder.com/spring-boot-angular-15-mysql/)
+
+> [Angular 15 + Spring Boot + PostgreSQL example](https://www.bezkoder.com/spring-boot-angular-15-postgresql/)
+
+> [Angular 15 + Spring Boot + MongoDB example](https://www.bezkoder.com/spring-boot-angular-15-mongodb/)
+
+> [Angular 15 + Spring Boot: File upload example](https://www.bezkoder.com/angular-15-spring-boot-file-upload/)
+
+Fullstack with Django:
+> [Angular + Django example](https://www.bezkoder.com/django-angular-13-crud-rest-framework/)
+
+> [Angular + Django + MySQL](https://www.bezkoder.com/django-angular-mysql/)
+
+> [Angular + Django + PostgreSQL](https://www.bezkoder.com/django-angular-postgresql/)
+
+> [Angular + Django + MongoDB](https://www.bezkoder.com/django-angular-mongodb/)
